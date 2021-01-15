@@ -98,4 +98,4 @@ Excelente pregunta! En mi caso, prefiero siempre *ambas*, y en el orden mostrado
 >Espero te sirva mi minitutorial! próximamente subiré un tutorial para instalar la última versión de python en Linux y cómo instalar Rstudio en Elementary OS.
 >Personalmente, me encantan esos dos temas porque hay muy poca info sobre ello y tras mucho tiempo de pelear con el pc, pude ganar esta batalla ... *al menos >hasta que liberen la versión 6 de Elementary OS*.
 
-Cualquier duda o consulta, puedes escribirme a mi [perfil de Linkedin](https://www.linkedin.com/in/carlos-chaman/)
+Cualquier duda o consulta, puedes escribirme a mi [perfil de Linkedin](https://www.linkedin.com/in/carlos-chaman/):+1:
